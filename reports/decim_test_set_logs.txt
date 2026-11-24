@@ -1,0 +1,26 @@
+Running cleaning level Yellow on decim_test_set.csv
+Parameters:
+Strip whitespace: True
+Normalize column names to snake case: True
+Remove columns or rows due to missingness: True
+Column missingness threshold to delete: 0.75
+Row missingness threshold to delete: 1
+Remove duplicate columns: True
+Remove duplicate rows: True
+Remove outliers: False
+Outlier quantile size: 0
+Protected columns: None
+
+Removed whitespace from 6 cells
+
+Renamed columns: ['midnight___snack', 'opossum fun fact']
+
+Dropped columns: ['opossum_fun_fact'] due to missing values
+
+Dropped 1 rows due to missing values
+
+Dropped columns: [] due to them being duplicates
+
+Dropped 0 rows due to them being duplicates
+
+Flagged: no outlier removal performed, recommended to check for outliers manually

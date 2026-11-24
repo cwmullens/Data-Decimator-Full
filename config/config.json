@@ -1,0 +1,11 @@
+{
+    "strip": true,
+    "rename_col": true,
+    "rm_tf": true,
+    "rm_col": 1.0,
+    "rm_row": 1.0,
+    "rm_dupe_col": false,
+    "rm_dupe_row": false,
+    "rm_outliers": false,
+    "quant_size": 0.25
+}
