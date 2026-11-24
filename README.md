@@ -27,6 +27,8 @@ Each level is meant to build upon the last while trading preservation for qualit
 - Remove outliers: uses the IQR outlier formula to identify and remove potential outliers
 - Outlier quantile size (0 to 0.5): the size of each quantile in the outlier formula; the lower the number, the less data identified as outliers
 
+A sample fictional dataset is included, along with the associated cleaned version (with the yellow preset) and log report.  
+
 ## Dependencies
 Ensure all dependencies are installed. These libraries are 
 - *pandas*
